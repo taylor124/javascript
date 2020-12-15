@@ -1,3 +1,5 @@
+window.alert("This is an alert! JavaScript is running!");
+
 var RobotGladiators = window.confirm("Welcome to Robot Gladiators, Shall we begin?")
 
 if(RobotGladiators === true){
