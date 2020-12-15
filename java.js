@@ -1,0 +1,1 @@
+var RobotGladiators = window.confirm("Welcome to Robot Gladiators, Shall we begin?")
